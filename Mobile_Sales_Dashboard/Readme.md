@@ -48,7 +48,7 @@ Tools & Technologies Used
 
 
 Dashboard Preview
-![Mobile Sales Dashboard](Mobile_Sales_Dashboard/Mobile_Sales_Dashboard.png)
+![Mobile Sales Dashboard](Mobile_Sales_Dashboard.png)
 
 
 Key Learnings
@@ -57,9 +57,9 @@ Key Learnings
 - Visualizing multi-dimensional data (time, geography, product, customer).
 
   
-🔗 [LinkedIn Profile (optional)](https://www.linkedin.com/in/yukti-chauhan/)
-
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/yukti-chauhan/)
 
 
 ⭐ *If you like this project, give it a star on GitHub!*
+
 
